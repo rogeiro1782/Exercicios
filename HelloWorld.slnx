@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="../AnoBissesto/AnoBissesto.csproj" />
+  <Project Path="../aumentosalarial/aumentosalarial.csproj" />
+  <Project Path="../calculoimc/calculoimc.csproj" />
+  <Project Path="../Comparação/Comparação.csproj" />
+  <Project Path="../Idade/Idade.csproj" />
+  <Project Path="../Media/Media.csproj" />
+  <Project Path="../operacoes/operacoes.csproj" />
+  <Project Path="../ParImpar/ParImpar.csproj" />
+  <Project Path="../Triangulo/Triangulo.csproj" />
+  <Project Path="HelloWorld.csproj" />
+</Solution>
